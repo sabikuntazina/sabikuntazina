@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://github.com/sabikuntazina/sabikuntazina/blob/main/Gemini_Generated_Image_iai4ipiai4ipiai4.png" alt="sabikuntazina" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github.com/sabikuntazina/sabikuntazina/blob/main/sabikuntazina.png)" alt="sabikuntazina" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/sabikuntazina/sabikuntazina/blob/main/sabikuntazina.png" alt="sabikuntazina" /></a> </p>
 
 - 🔭 I’m currently working on [DigiTools](https://digitools01-2026.netlify.app/)
 
