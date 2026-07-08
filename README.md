@@ -11,7 +11,11 @@ I'm a passionate MERN Stack Developer from Bangladesh who enjoys building modern
 - 📚 Always learning new technologies and improving my development skills.
 
 - 🌱 I’m currently learning Typescript 
-- 📫 How to reach me: sabikuntazina@gmail.com 
+- 💼 Explore my **[Portfolio](https://portfolio-sabikun-enam-tazina1.vercel.app)**
+- 📄 View my **[Resume](https://drive.google.com/file/d/1-oPADXEHQ-E8f7IeXfBT8nWiHLROuDFy/view?usp=sharing)**
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sabikun-enam-tazina-/)**
+- 📫 Reach me at **[sabikuntazina@gmail.com](mailto:sabikuntazina@gmail.com)**
+- 🐙 Visit my **[GitHub](https://github.com/sabikuntazina)**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabikuntazina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabikun-enam-tazina-/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/@sabikun.enam.2024)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-sabikun-enam-tazina1.vercel.app/)  
